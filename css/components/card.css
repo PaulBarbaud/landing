@@ -13,7 +13,7 @@ align-items: flex-start;
 
 .card {
   width: 250px;
-  height: 400px;
+  height: 350px;
   box-shadow: 1px 1px 2px lightgray;
   border-radius: 5px;
 
@@ -21,17 +21,17 @@ align-items: flex-start;
 
 .card h3 {
   margin: 0;
-  font-size: 30px;
+  font-size: 20px;
   text-align: center;
 }
 
 .card p {
   margin: 0;
-  font-size: 20px;
+  font-size: 15px;
   text-align: center;
+  color: gray;
+  margin-top: 5px;
 }
-
-
 
 .card img{
   width: 250px;
